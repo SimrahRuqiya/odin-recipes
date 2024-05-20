@@ -1,0 +1,31 @@
+body    {
+    align-items: center;
+    position: relative;
+    margin: 50px;
+    height: 100vh;
+    box-sizing: border-box;
+}
+img {
+    height: auto;
+    width: 250px;
+    padding: inherit;
+    margin:auto;
+    display: block;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cornflowerblue;
+    background-color:gainsboro;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+#Recipes {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color:gainsboro;
+    text-align: center;
+    position:relative;
+
+}
